@@ -1,7 +1,7 @@
 pertama tama kita di arahkan untuk registrasi terlebih dahulu dengan memasukan nama, umur, password dan konfirmasi password.
 kemudian kita login menggunakan akun yang kita sudah buat tadi maka selanjutnya kita akan dibawa menuju menu utama.
 menu utaama memiliki 3 opsi yaitu:
-1.Admind yang mana opsi ini bisa menambahkan dan merubah menu sesuai yang kita inginkan, dan didalam opsi Admind ada opsi kembali yang mana berguna untuk ke menu awal lagi.
+1.Admin yang mana opsi ini bisa menambahkan dan merubah menu sesuai yang kita inginkan, dan didalam opsi Admin ada opsi kembali yang mana berguna untuk ke menu awal lagi.
 2.Pembeli opsi ini mengarahkan kita untuk meakukan pembelian yang dilakukan dengan cara memasukan angka sesuai dengan angka makanan yang kita inginkan
   dan untuk mengakhiri pesanan kita bisa meng-ketikan "selelsai" maka akan muncul total biaya yang harus kita bayar
 3.Keluar adalah opsi untuk keluar atau sselesai berbelanja di toko kami
